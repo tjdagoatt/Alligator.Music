@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- app-specific dark theme colors -->
+    <color name="am_black_dark">#121212</color>
+    <color name="am_black">#212121</color>
+    <color name="am_gray_dark">#2C2C2C</color>
+    <color name="am_gray_mid">#3A3A3A</color>
+    <color name="am_gray_light">#B3B3B3</color>
+    <color name="am_white">#FFFFFFFF</color>
+    <color name="am_accent_red">#FF3B30</color>
+</resources>

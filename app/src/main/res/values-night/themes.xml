@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.AlligatorMusic" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/am_gray_mid</item>
+        <item name="colorOnPrimary">@color/am_white</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/am_gray_mid</item>
+        <item name="colorOnSecondary">@color/am_white</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/am_black_dark</item>
+        <item name="android:navigationBarColor">@color/am_black_dark</item>
+    </style>
+
+    <!-- App theme -->
+    <style name="Theme.AlligatorMusic" parent="Base.Theme.AlligatorMusic" />
+
+</resources>
